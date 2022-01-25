@@ -4,7 +4,7 @@
 * The difference is what you could buy in Bitcoin rounding up your purchases.
 
 ## Requirements
-* Data in JSON format from (Organizze)[https://organizze.com.br]
+* Data in JSON format from [Organizze](https://organizze.com.br])
 
 ## Tech
 * React
